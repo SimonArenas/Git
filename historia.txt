@@ -1,5 +1,6 @@
 Esta es mi historia.
 
-Soy Simón Arenas, 20 años, estudiante de Desarrollo de software.
+Soy Simón Arenas, 21 años, Ingeniero de Desarrollo de software.
 
 Enseñando lo que sé de GIT.
+

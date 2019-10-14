@@ -15,3 +15,5 @@ En realidad, sólo por que quiero. Pero si quieres algo de utilidad, [aquí](htt
 
 
 * Creado por Simón
+* Incluye una foto arriba de una compu!
+* Disponible para todos

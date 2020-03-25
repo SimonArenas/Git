@@ -3,7 +3,7 @@
 Mi nombre es **Simón Arenas**, estudiante en ingeniería de Desarrollo de Software, y este repo es muy aburrido, solo tiene contenido mío haciendo prácticas de Git y Github, basándome en un curso que tomé en [Platzi](https://platzi.com/clases/git-github/).
 
 
-# ¿Entonces por qué es público? aaas
+# ¿Entonces por qué es público?
 
 En realidad, sólo por que quiero. Pero si quieres algo de utilidad, [aquí](https://docs.google.com/document/d/1Pn18nzVD4cQvwTSo_m0OoMtPXajw85sRQyt-IM3ZPw8/edit?usp=sharing) puedes ver un archivo que he creado con los comandos que considero más importantes para usar Git. 
 
